@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Epsilon</string>
+    <string name="channel_url">https://t.me/EpsilonFoxModS</string>
+    <string name="welcome_to">WELCOME TO</string>
+    <string name="title_main">EPSILON FOX</string>
+    <string name="title_sub">ModS</string>
+    <string name="tagline">Your destination for Android modding, apps, customization, and technology!</string>
+    <string name="btn_join">Join Telegram</string>
+    <string name="btn_privacy">Privacy Policy</string>
+    <string name="btn_share">Share App</string>
+    <string name="sec_find">What you\'ll find here</string>
+    <string name="sec_rules">Channel rules</string>
+    <string name="sec_mission">Our mission</string>
+    <string name="sec_connect">Stay connected</string>
+    <string name="mission_text">Sharing useful apps, Android resources, and tech knowledge with everyone.</string>
+    <string name="mission_slogan">Explore More. Customize Freely. Stay Secure.</string>
+    <string name="thanks">Thank you for joining Epsilon Fox ModS!</string>
+    <string name="connect_title">Epsilon Fox ModS</string>
+    <string name="connect_sub">Stay Connected. Stay Curious. Stay Secure.</string>
+    <string name="footer">© Epsilon Fox ModS</string>
+    <string name="share_text">Check out Epsilon Fox ModS — Android mods, apps, customization and tech tips!\nhttps://t.me/EpsilonFoxModS</string>
+    <string name="share_chooser">Share via</string>
+
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="privacy_tag">YOUR PRIVACY. YOUR SECURITY.</string>
+    <string name="privacy_heading">Epsilon Fox ModS Privacy Policy</string>
+    <string name="privacy_accept">By using our shared resources, you accept responsibility for your downloads and online activities.</string>
+    <string name="privacy_footer">Epsilon Fox ModS — Explore More. Customize Freely. Stay Secure.</string>
+
+    <string-array name="find_items">
+        <item>📱|Android Apps &amp; Mod APKs</item>
+        <item>🚀|App Updates &amp; New Releases</item>
+        <item>🎨|Android Tools &amp; Customization</item>
+        <item>🔁|App Alternatives &amp; Useful Resources</item>
+        <item>💡|Tech Tips &amp; Tutorials</item>
+        <item>🎁|Free Apps and Resources</item>
+    </string-array>
+
+    <string-array name="rule_items">
+        <item>🤝|Respect the community.</item>
+        <item>📥|Download files at your own discretion.</item>
+        <item>🔍|Check app permissions before installation.</item>
+        <item>🔐|Never share passwords, OTPs, or sensitive information.</item>
+        <item>⚠️|Beware of fake links and impersonators.</item>
+        <item>⚖️|Respect developers\' rights and applicable laws.</item>
+    </string-array>
+
+    <string-array name="privacy_items">
+        <item>🛡️|We respect your privacy and do not intentionally request sensitive personal information.</item>
+        <item>🔗|External links and third-party apps may collect data under their own privacy policies.</item>
+        <item>✅|Always verify downloads and check app permissions before installation.</item>
+        <item>🔐|Never share passwords, OTPs, or personal information with unknown sources.</item>
+        <item>🌐|We are not responsible for third-party websites, apps, or files.</item>
+        <item>©️|Copyright belongs to the respective owners. Contact the admin for copyright concerns.</item>
+    </string-array>
+</resources>

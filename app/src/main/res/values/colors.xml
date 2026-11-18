@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_top">#F7F6FF</color>
+    <color name="bg_bottom">#E9EEFF</color>
+    <color name="ink">#15151C</color>
+    <color name="ink_soft">#5B5B6B</color>
+    <color name="accent">#8A84F0</color>
+    <color name="accent_2">#7FA3F2</color>
+    <color name="glass_top">#D9FFFFFF</color>
+    <color name="glass_bottom">#8CFFFFFF</color>
+    <color name="glass_stroke">#E6FFFFFF</color>
+    <color name="blob_violet">#668A84F0</color>
+    <color name="blob_blue">#667FA3F2</color>
+    <color name="blob_pink">#55F0A8D8</color>
+    <color name="transparent">#00000000</color>
+</resources>
